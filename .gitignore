@@ -1,1 +1,5 @@
 .auth
+.repos/
+repos/
+.repo/
+asdf-plugins/
